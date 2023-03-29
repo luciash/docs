@@ -13,7 +13,7 @@ The database structure of PrestaShop can be found in `install/data/db_structure.
 
 It is used one time, during the installation of PrestaShop.
 It contains the structure of almost all tables. If a table needs to be added or
-modified, this the file you should open.
+modified, this is the file you should open.
 
 ### Table in DB but not in db_structure.sql
 
